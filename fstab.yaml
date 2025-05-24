@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34771-e1278037.adobeaemcloud.com/bin/franklin.delivery/amahar/universal-editor-getting-started/main"
-    type: "markup"
+    url: "https://author-p34771-e1278037.adobeaemcloud.com"
+    type: "aem"
     suffix: ".html"
